@@ -16,7 +16,7 @@ Please refer to the [Adobe XD Design Document](https://xd.adobe.com/view/795aa0a
 ### Getting Started
 1. **Fork** this repository.
 2. **Clone** your fork locally:
-git clone https://github.com/yohannescodes/MyLomi.git
+git clone https://github.com/MyLomi/MyLomi-Backend.git
 3. **Create a branch** for your feature:
     ```
     git checkout -b feature-name
@@ -32,13 +32,12 @@ git clone https://github.com/yohannescodes/MyLomi.git
 ### Style Guidelines
 Please adhere to the following coding style guidelines:
 
-- Follow Swift's API Design Guidelines.
+- Follow Node JS Design Guidelines.
 - Write clear, concise commit messages.
 - Keep your code clean and well-organized.
 
 ### Contributing Code
-- Follow Swift's best practices and ensure your code adheres to the project's style.
-- Implement features as described in the [design document](https://xd.adobe.com/view/795aa0a0-2b73-4179-b83b-de9ec93a218d-2c09/grid) for a consistent UI/UX.
+- Follow Node JS best practices and ensure your code adheres to the project's style.
 - Ensure any changes are tested and submit detailed documentation with your PR.
 
 ### Reporting Bugs
