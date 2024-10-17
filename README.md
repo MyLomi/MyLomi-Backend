@@ -9,22 +9,21 @@ MyLomi is a unique dating app designed to help users connect with virtual compan
 - Connect with virtual companions
 
 ## Tech Stack
-- **Language**: Swift
-- **Framework**: UIKit + CoreData for persistence
-- **Backend**: TBD
-- **API Integration**: URLSession for network requests
+- **Language**: JavaScript/TypeScript
+- **Framework**: Node Js/Express JS
+- **Database**: MongoDB
 
 ## Current Status
 The project is in the early development phase, and we’re looking for contributors to help build out key features. This is a **Build in Public** initiative to engage the iOS developer community.
 
 ## How to Contribute
 1. **Fork** the repository.
-2. **Clone** the repo: `git clone https://github.com/yohannescodes/MyLomi.git`
+2. **Clone** the repo: `https://github.com/MyLomi/MyLomi-Backend.git`
 3. **Install dependencies**: Instructions coming soon.
 4. Submit Pull Requests for features, bug fixes, or improvements.
 
 ## Contribution Guidelines
-- Follow Swift coding standards and best practices.
+- Follow Node JS coding standards and best practices.
 - Check for [open issues](https://github.com/yohannescodes/MyLomi/issues) before starting work.
 - Ensure pull requests are well-documented and tested.
 
